@@ -14,3 +14,5 @@ quadruplicate = primary(4)
 
 for number in numbers:
     print(f"Number: {number}, Duplicate: {duplicate(number)}, Triplicate: {triplicate(number)}, Quadruplicate: {quadruplicate(number)}")
+
+print("Successfully changed something in the module1.py file")
