@@ -1,0 +1,30 @@
+{
+    "alunos": [
+        "Marcos",
+        "João",
+        "Jonas",
+        "Pedro"
+    ],
+    "aulas": [
+        "MAria",
+        "Dons",
+        "Espirito",
+        "Missa"
+    ],
+    "presencas": {
+        "Jonas": {
+            "Dons": true,
+            "MAria": true,
+            "Espirito": false,
+            "Missa": false
+        },
+        "Marcos": {
+            "Missa": true,
+            "MAria": true,
+            "Espirito": true
+        },
+        "Pedro": {
+            "MAria": true
+        }
+    }
+}
